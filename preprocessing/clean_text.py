@@ -1,6 +1,5 @@
 import re
 
-
 def clean_text(text):
     """
     Metni temizler:
@@ -12,3 +11,6 @@ def clean_text(text):
     text = re.sub(r'[^\w\s]', '', text)  # Noktalama işaretlerini sil
     text = re.sub(r'\s+', ' ', text).strip()  # Fazla boşlukları tek boşluğa indir
     return text
+
+
+
