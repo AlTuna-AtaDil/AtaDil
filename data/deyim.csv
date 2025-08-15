@@ -9,11 +9,9 @@ text,label,standard
 "A blessing in disguise","deyim","Her işte bir hayır vardır"
 "Don’t cry over spilled milk","deyim","Ölenle ölünmez"
 "Every cloud has a silver lining","deyim","Her şerde bir hayır vardır"
-"Actions speak louder than words","deyim","Lafla peynir gemisi yürümez"
 "Add fuel to the fire","deyim","Yangına körükle gitmek"
 "Back to square one","deyim","En başa dönmek"
 "Beat around the bush","deyim","Lafı dolandırmak"
-"Better late than never","deyim","Geç olsun güç olmasın"
 "By the book","deyim","Kitabına göre yapmak"
 "Caught red-handed","deyim","Suçüstü yakalanmak"
 "Costs an arm and a leg","deyim","El yakar"
@@ -35,11 +33,8 @@ text,label,standard
 "Pull someone’s leg","deyim","Birini işletmek"
 "Put your money where your mouth is","deyim","Sözünün arkasında durmak"
 "Raining cats and dogs","deyim","Bardaktan boşanırcasına yağmak"
-"See eye to eye","deyim","Aynı frekansta olmak"
 "Sit on the fence","deyim","Kararsız kalmak"
-"Speak of the devil","deyim","İti an çomağı hazırla"
 "Steal someone’s thunder","deyim","Başkasının ekmeğine yağ sürmek"
-"Take it with a grain of salt","deyim","İhtiyatla yaklaşmak"
 "The early bird catches the worm","deyim","Erken kalkan yol alır"
 "Throw in the towel","deyim","Havlu atmak"
 "Under the weather","deyim","Keyfi kaçmak"
@@ -101,11 +96,10 @@ text,label,standard
 As you make your bed you lie on it,deyim, Kendi düşen ağlamaz
 An apple a day keeps the doctor away,deyim, Güneş girmeyen eve doktor girer
 A defeated wrestler never tires of wrestling again,deyim, Yenilen pehlivan güreşe doymaz
-A leopard can’t change its spots,deyim, Huylu huyundan vazgeçmez
-Action ‌speak ‌louder ‌than ‌words,deyim, Lafla peynir gemisi yürümez
-An ‌empty ‌vessel ‌makes ‌much ‌noise,deyim, Boş teneke çok tıngırdar
-A ‌rolling ‌stone ‌gathers ‌no ‌moss,deyim, Yuvarlanan taş yosun tutmaz
-As ‌you ‌sow ‌so ‌you ‌shall ‌reap,deyim, Ne ekersen onu biçersin
+Action speak louder than words,deyim, Lafla peynir gemisi yürümez
+An empty vessel makes much noise,deyim, Boş teneke çok tıngırdar
+A rolling stone gathers no moss,deyim, Yuvarlanan taş yosun tutmaz
+As you sow so you shall reap,deyim, Ne ekersen onu biçersin
 An over-protected eye gets the speck,deyim, Sakınılan göze çöp batar
 A hard nut to crack,deyim, Çetin ceviz
 A perfect storm,deyim, Mükemmel fırtına
@@ -125,11 +119,10 @@ Blow off steam,deyim, İçini dökmek
 Break the bank,deyim, El yakmak
 Bring home the bacon,deyim, Evi geçindirmek
 Be in hot waters,deyim, Hapı yutmak
-Break the ice,deyim, Havayı yumuşatmak
 Between a rock and a hard place,deyim, İki arada bir derede kalmak
 Beat around the bush,deyim, Lafı eveleyip gevelemek
 Barking up the wrong tree,deyim, Olmayacak duaya âmin demek
-"Born with a silver spoon in one’s mouth",deyim, "Doğuştan zengin, varlıklı, şanslı olmak"
+"Born with a silver spoon in one’s mouth","deyim", "Doğuştan zengin varlıklı şanslı olmak"
 Burn bridges,deyim, Köprüleri yıkmak
 Break even,deyim, Ne kar ne zarar etmek
 Bread and butter,deyim, Ekmek teknesi
@@ -192,7 +185,7 @@ Keep your chin up,deyim, Metin olmak
 Let the cat out of the bag,deyim, Ağzındaki baklayı çıkarmak
 Living hand to mouth,deyim, Ucu ucuna geçinmek
 Leave no stone unturned,deyim, Aranmadık yer bırakmamak
-"Like two pies in a pod",deyim, "Ayrılmaz, sürekli yan yana olma"
+"Like two pies in a pod","deyim", "Ayrılmaz sürekli yan yana olma"
 Look like a million,deyim, Harika görünmek
 Lose your touch,deyim, Eskisi kadar iyi olamamak
 Lost at sea,deyim, Kafası karışmak
@@ -210,7 +203,7 @@ Not one’s cup of tea,deyim, Kalemi olmamak
 Once burnt twice shy,deyim, Sütten ağzı yanan yoğurdu üfleyerek yer
 Old hat,deyim, Modası geçmiş
 On cloud nine,deyim, Mutluluğun doruklarında
-"On the ball",deyim, "Hazırlıklı olmak, işini bilmek"
+"On the ball","deyim","Hazırlıklı olmak"
 On thin ice,deyim, Kötü bir olayın olmak üzere olması
 Once in a blue moon,deyim, Ayda yılda bir
 Pull someone’s leg,deyim, Birini kandırmak
@@ -253,3 +246,57 @@ When it rains it pours,deyim, Aksilikler üst üste gelir
 Work like a charm,deyim, Tıkır tıkır çalışmak
 Work like a horse,deyim, At gibi çalışmak
 You can’t teach an old dogs new tricks,deyim, Ağaç yaştan eğilir
+"The apple doesn’t fall far from the tree.","deyim","Armut dibine düşer."
+"One man’s trash is another man’s treasure.","deyim","Birinin çöpü, bir diğerinin hazinesidir."
+"The pen is mightier than the sword.","deyim","Kalem kılıçtan keskindir."
+"Rome wasn’t built in a day.","deyim","Roma, bir günde inşa edilmedi."
+"When there’s smoke, there’s fire.","deyim","Ateş olmayan yerden duman çıkmaz."
+"A journey of a thousand miles begins with a single step.","deyim","Bin millik yolculuk, bir adımla başlar."
+"When in Rome, do as the Romans do.","deyim","Roma’dayken Romalılar gibi yaşa."
+"All that glitters is not gold.","deyim","Parlayan her şey altın değildir."
+"A happy heart is better than a full purse.","deyim","Mutlu bir kalp, dolu bir cüzdandan iyidir."
+"All is fair in love and war.","deyim","Aşkta ve savaşta her şey mübahtır."
+"A ship in a harbor is safe, but that’s not what a ship is for.","deyim","Limandaki gemi güvendedir, ama gemi bunun için değildir."
+"Barking dogs seldom bite.","deyim","Havlayan köpek ısırmaz."
+"Curiosity killed the cat.","deyim","Kediyi merak öldürür."
+"Early bird catches the worm.","deyim","Erken kalkan yol alır."
+"Slow and steady wins the race.","deyim","Yavaş ve istikrarlı olan yarışı kazanır."
+"To call it a day","deyim","Çalışmayı bitirmek"
+"To get out of hand","deyim","Kontrolden çıkmak"
+"The best of both worlds","deyim","Bir işten çıkabilecek en iyi sonuç"
+"To spill the beans","deyim","Bir sırrı ortaya çıkarmak"
+"Once in a blue moon","deyim","Çok nadiren"
+"To see eye to eye","deyim","Tamamen aynı fikirde olmak"
+"To hit the sack","deyim","Yatağa gitmek"
+"To stab someone in the back","deyim","Sırtından bıçaklamak"
+"To face the music","deyim","Sonuçları kabullenmek"
+"To ring a bell","deyim","Bir şeyi çağrıştırmak"
+"To blow off steam","deyim","Stres atmak"
+"To cut to the chase","deyim","Sadede gelmek"
+"It’s raining cats and dogs.","deyim","Bardaktan boşanırcasına yağmur yağması"
+"Familiarity breeds contempt","deyim","Fazla samimiyet tez ayrılık getirir"
+"Familiarity breeds contempt","deyim","Fazla samimiyet tez ayrılık getirir"
+"Lie down with dogs, wake up with fleas","deyim","Körle yatan şaşı kalkar"
+"Never put off until tomorrow what you can do today","deyim","Bugünün işini yarına bırakma"
+"Out of the frying pan and into the fire","deyim","Yağmurdan kaçarken doluya tutulmak"
+"Water under the bridge","deyim","Geçmişte kaldı"
+"Wear your heart on your sleeve","deyim","Her şeyini ortaya dökmek"
+"Throw caution to the wind","deyim","Tedbiri elden bırakmak"
+"Time is money","deyim","Vakit nakittir"
+"You reap what you sow","deyim","Ne ekersen onu biçersin"
+"The grass is always greener on the other side","deyim","Komşunun tavuğu komşuya kaz görünür"
+"Great minds think alike","deyim","Akıl akıldan üstündür"
+"Let bygones be bygones","deyim","Geçmişe mazi derler"
+"A friend in need is a friend indeed","deyim","Gerçek dost kara günde belli olur"
+"Don't make a mountain out of a molehill","deyim","Pireyi deve yapma"
+"Go for broke","deyim","Her şeyi göze almak"
+"Haste is from the devil","deyim","Acele işe şeytan karışır"
+"One man's trash is another man's treasure","deyim","Birinin çöpü, diğerinin hazinesidir"
+"To each his own","deyim","Zevkler ve renkler tartışılmaz"
+"Truth will out","deyim","Gerçekler er ya da geç ortaya çıkar"
+"Bite the dust","deyim","Tozu yutmak"
+"Go down in flames","deyim","Yanıp kül olmak"
+"Jump the gun","deyim","Aceleci davranmak"
+"Knock on wood","deyim","Şeytan kulağına kurşun"
+"Not my circus, not my monkeys","deyim","Bana dokunmayan yılan bin yaşasın"
+
